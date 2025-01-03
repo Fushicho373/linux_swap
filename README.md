@@ -1,4 +1,4 @@
-输入\n
+输入
 curl -O https://raw.githubusercontent.com/Fushicho373/linux_swap/refs/heads/main/swap.sh && chmod +x swap.sh && ./swap.sh
 若运行失败，试试这样运行
 sudo bash swap.sh
